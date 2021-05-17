@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Treboras
+- 👀 very new to GitHub
+- 🌱 freetime scripter with some experience in AutoHotKey
+- 💹 crypto fan
